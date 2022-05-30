@@ -1,3 +1,12 @@
+# Вывод:
+#   ...
+#   ----------------------------------------------------------------------
+#   Ran 3 tests in 0.000s
+#
+#   OK
+#   Время работы теста testDelimiter: 0.01730 мс
+#   Время работы теста testSimpleString: 0.01020 мс
+#   Время работы теста testTypeConvert: 0.01900 мс
 
 import splitter
 import unittest
