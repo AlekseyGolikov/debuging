@@ -40,7 +40,7 @@ class TestSplitFunction(unittest.TestCase):
     @timer
     def testDelimiter(self):
         r = splitter.split('erger,100,rfg,23.4', delimiter=',')
-        self.assertEqual(r, ['erger','100','rfg','23.4'])
+        self.assertEqual(r, ['erger','100','rfg','23.4'], "Неверные результаты")
 
 if __name__ == "__main__":
     unittest.main()
