@@ -5,3 +5,5 @@
 doctest_exam.py - debuging by using doctest module
 
 test_unitest_splitter.py - debuging by using unitest module
+test_unitest_splitter.py - debuging by using unitest module
+test_unitest_exam.py - debuging by using unitest module
